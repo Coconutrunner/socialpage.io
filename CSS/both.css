@@ -1,0 +1,29 @@
+a{
+    color: rgb(110, 131, 252);
+}
+
+body{
+    background-color: rgb(34, 34, 34);
+}
+
+.Main{
+    background-color: rgb(164, 162, 162);
+    border-radius: 1vh;
+    padding-left: 1vh;
+    padding-bottom: 1vh;
+    
+    h1{
+      font-size: 6vh;  
+    }
+}
+
+.bHead{
+    text-decoration-line: underline;
+}
+
+.topbar{
+    background-color: rgb(110, 109, 109);
+    border-radius: 1vh;
+    padding: 2vh;
+    margin-bottom: 2vh;
+}
